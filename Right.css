@@ -1,0 +1,40 @@
+.logo
+{
+    
+    width: 150px;
+    padding: 5px 9%;
+    
+   
+   
+}
+.container
+{
+    width: 17%;
+    background-color: rgb(34, 134, 173);
+    height: 800px;
+    border: 1px solid white
+}
+.menu
+{
+    color: white;
+}
+ul
+{
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    
+}
+li
+{
+    list-style: none;
+    cursor: pointer;
+    
+}
+.btn {
+    border: none;
+    padding: 0;
+    background-color:rgb(14, 14, 90) ;
+    color: white;
+}

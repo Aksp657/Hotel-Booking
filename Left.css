@@ -1,0 +1,49 @@
+.l_container
+{
+   width: 83%;
+    height: 500px;
+}
+.nav
+{
+    height: 80px;
+    background-color:rgb(34, 134, 173)
+}
+.search
+{
+    border: none;
+    background-color:rgb(83, 157, 187);
+    width: 300px;
+    height: 40px;
+    border: 1px solid rgb(167, 157, 157);
+    margin: 20px;
+
+}
+.search:hover
+{
+    border: none;
+}
+.box
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.B
+{
+    display: flex;
+    gap: 40px;
+    padding: 30px;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+
+}
+.A{
+    cursor: pointer;
+    
+}
+input::placeholder
+{
+    color: white
+    
+}

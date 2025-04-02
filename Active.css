@@ -1,0 +1,13 @@
+.head
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    color: rgb(69, 71, 73);
+}
+input
+{
+    width: 250px;
+    height: 40px;
+    border: 1px solid rgb(192, 190, 190);
+}
